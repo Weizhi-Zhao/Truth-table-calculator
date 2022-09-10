@@ -102,7 +102,7 @@ int main()
         while(variables.empty() == false) variables.pop();
     }
 
-    cout << "按任意键退出" << endl;
+    cout << "按回车退出" << endl;
     getchar();
     getchar();
     return 0;
